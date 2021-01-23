@@ -1,0 +1,7 @@
+name: islandPlugin
+version: 1.0.0
+main: IslandPlugin
+softdepend:
+  - coreplugin
+commands:
+  is:

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="islandPlugin:jar">
+    <output-path>$USER_HOME$/OneDrive/바탕 화면/server/plugins</output-path>
+    <root id="archive" name="islandPlugin.jar">
+      <element id="module-output" name="islandPlugin" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/intellectualsites/fawe/FAWE-Bukkit/1.16-555/FAWE-Bukkit-1.16-555.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
